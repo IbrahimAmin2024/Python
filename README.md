@@ -1,4 +1,4 @@
-![img](https://github.com/DevIA3kl/other/blob/master/more/Python.png)
+![img](https://raw.githubusercontent.com/IbrahimAmin2024/Python/main/Archive/Repos/Python.png)
 
 # Python 💥
 
